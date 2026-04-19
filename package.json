@@ -34,12 +34,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xssgymguy/polynomial-fan-matcher.git"
+    "url": "git+https://github.com/goncharovart/polynomial-fan-matcher.git"
   },
   "license": "MIT",
   "author": "Artur Goncharov <goncharov.artur.02@gmail.com>",
-  "homepage": "https://github.com/xssgymguy/polynomial-fan-matcher#readme",
+  "homepage": "https://github.com/goncharovart/polynomial-fan-matcher#readme",
   "bugs": {
-    "url": "https://github.com/xssgymguy/polynomial-fan-matcher/issues"
+    "url": "https://github.com/goncharovart/polynomial-fan-matcher/issues"
   }
 }
