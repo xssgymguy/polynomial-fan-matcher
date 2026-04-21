@@ -1,4 +1,4 @@
-> 📰 **New:** Technical deep-dive on Dev.to — [How I indexed 18,141 polynomial fan curves in Postgres and matched a duty point in 4 ms](https://dev.to/goncharovart/how-i-indexed-18141-polynomial-fan-curves-in-postgres-and-matched-a-duty-point-in-4-ms-ljp)
+> 📰 **New:** Technical deep-dive on Dev.to — [How I indexed 18,141 polynomial fan curves in Postgres and matched a duty point in 4 ms](https://dev.to/goncharovart/how-i-indexed-18141-polynomial-fan-curves-in-postgres-and-matched-a-duty-point-in-4-ms-5aim)
 >
 > 📝 **Bigger story:** [Two months, one engineer, one production B2B marketplace — what AI-directed full-stack actually looks like](https://dev.to/goncharovart/two-months-one-engineer-one-production-b2b-marketplace-what-ai-directed-full-stack-actually-11hn)
 >
